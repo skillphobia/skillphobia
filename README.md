@@ -3,10 +3,10 @@
 - 🌱 I’m currently taking IGCSE Computer Science
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me:
-      discord- skillphobia
-               skillphobia1337
+      discord (2 accounts) - _crqfting
+                             crqfting
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like dirnking ketchup
+- ⚡ Fun fact: i like drinking ketchup
 
 <!---
 skillphobia/skillphobia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
