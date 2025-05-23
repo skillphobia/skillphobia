@@ -3,9 +3,8 @@
 - 🌱 I’m currently taking IGCSE Computer Science
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me:
-      discord (2 accounts) - _crqfting
-                             crqfting
-- 😄 Pronouns: he/him
+      Discord - alaskavioletgay
+- 😄 Pronouns: he/she (she/her preferred)
 - ⚡ Fun fact: i like drinking ketchup
 
 <!---
