@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @skillphobia
-- 👀 I’m interested in MCSR
-- 🌱 I’m currently taking IGCSE Computer Science
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me:
-      Discord - alaskavioletgay
-- 😄 Pronouns: he/she (she/her preferred)
-- ⚡ Fun fact: i like drinking ketchup
-
-<!---
-skillphobia/skillphobia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Did you know that Korean and Basque are very interesting languages in their respective continents? You might be asking why, and for Basque (spoken in northern Spain and parts of France), it is a **language isolate** which means there isn’t a root for Basque. For example, English is rooted from the Germanic languages, (English and Germans have lots of similar words ie. Haus (House) Wasser (Water), etc, Polish from Slavic branch (many Slavic languages have some variation of Bielo as white, or you know… that one word that starts with k as an insult) etc etc, but Basque has a very unique twist. There is nothing in like Germanic, Romanic, Slavic, etc. that Basque has, making it one of the hardest languages to learn because of it. Not only that, Korean has developed a Basque style of language development in the sense they are completely isolated from many different languages in Asia. That being said, due to Chinese and Japanese influence, it is obviously going to have loan words that will pop up, 핰교 or hakgyo is a word that pops up in both Chinese and Korean scripts for example. But Korean as a language despite its very simple writing system (yes i learned Hangul yesterday and typed 핰교 fairly fast), is one of the hardest because grammar is so unique compared to Asian counterparts
